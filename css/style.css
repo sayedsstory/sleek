@@ -11751,7 +11751,6 @@ html.tablet .ui-to-top {
   }
   .rd-navbar-nav-wrap-mobile .dropdown ul li {
 	min-width: 200px;
-	visibility: visible;
   }
   .rd-navbar-nav-wrap-mobile .dropdown ul a {
 	padding: 10px 20px;
