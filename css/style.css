@@ -11642,14 +11642,14 @@ html.tablet .ui-to-top {
 	font-size: 12px;
   }
   .rd-navbar-nav-wrap .dropdown ul a:hover, .rd-navbar-nav-wrap .dropdown ul .active:hover, .rd-navbar-nav-wrap .dropdown ul li:hover > a {
-	color: black;
+	color: #1e88d2;
+	
 	
   }
   .rd-navbar-nav-wrap .dropdown:hover > ul {
 	opacity: 1;
 	top: 100%;
-	visibility: visible;
-	
+	visibility: visible;	
   }
   .rd-navbar-nav-wrap .dropdown .dropdown ul {
 	top: 0;
@@ -11751,6 +11751,7 @@ html.tablet .ui-to-top {
   }
   .rd-navbar-nav-wrap-mobile .dropdown ul li {
 	min-width: 200px;
+	visibility: visible;
   }
   .rd-navbar-nav-wrap-mobile .dropdown ul a {
 	padding: 10px 20px;
