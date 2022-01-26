@@ -11581,7 +11581,7 @@ html.tablet .ui-to-top {
 	align-items: center;
 	justify-content: space-between;
 	font-family: "Poppins", sans-serif;
-	color: #fff;
+	color: black;
 	font-size: 14px;
 	padding: 0 4px;
 	white-space: nowrap;
@@ -11613,7 +11613,7 @@ html.tablet .ui-to-top {
 	text-decoration: none;
   }
   .rd-navbar-nav-wrap a:hover, .rd-navbar-nav-wrap .active, .rd-navbar-nav-wrap .active:focus, .rd-navbar-nav-wrap li:hover > a {
-	color: #fff;
+	color: #5D97F4;
   }
   .rd-navbar-nav-wrap .dropdown ul {
 	display: block;
